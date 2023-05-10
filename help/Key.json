@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "icemusique",
+  "private_key_id": "4adec3ae6e461db764366fb24d012cc7eb2ede16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDELKTAIlNXOC1p\nKsUwM2tTI8BJ5BfH7iNNbQARO9/jXk6fBfH2RnC/CNcNbAVce5tpNgpdtkMOUJsx\n84ARyZtbuhmpjcsBJJSWpNHYM/E707tUesteukAvEmJkBGQCWYt6BOwQo8+dB1nP\nAYpGJ82VYptp9ylZ19TWrNE1Cdyg9lTbyhvvkyjt1QWqGYidz15aWbpVgNl7t/pa\nP+cXgg76TEsMXcS+0yFzLX+OILONGK/jaHtb38tbhcsLpHle9HAqaRxuXKflwUMb\nRD4/Vj298Hzws/U09SAz5BgoCeQtpuCTsm8vSUBQlb4jlAmV5Qv8TmIeV++u/EPn\nXOPyJsspAgMBAAECggEACyCapDzWNBpvRfm7d2NVRUEgAzj1Sd2FwlqqUC/woEOd\nS0shqUXf15ArbZsY10D6JN7AOgZQeaeEFBJjK28feTWeRsYwk4MlDAHzlrNEjc+R\n3sX70ubW5OyiqNhwaUs1vIE6uCtoh3hPJW0pkBbqI/z0wo8W2P4jeB1TnRHvAjC5\nS253YexosOZ7YEyvo0T9wH+RNi30S4nvMFegDFGXPEKCwiVyAko3qfbDCTq6g1LG\nkYsWaFVqQFT03pdGYwhwlxqnN1dVMiEKYjqrv2v1S7SjcRFxzWuz1KrunEeW0Wdn\nDeQaumBWcmJnM84yGXkMkovdE+KP2nmSCLG3Mt9JIQKBgQDxaSqP06Axuuc28iGp\nKaw/IIJ73o5xmatsPF8GfzOJ0JGd5GGLssxC/xJXSao1IiwZq5fWug9zTXYAKl4O\nDrFTvWiWwiBD7ppuOAuQFFTjmOsqJZSAgxDzZlKr2OD3ZqU1OtXWbvZJ4v+egL34\nxI3d+P6Xg3uF0oKXbGnbtOnmYQKBgQDQB6F/OL2hOXn7ZKUb7fOwbiGJJlqXx5a6\nMGG3L0So918RADOC6kjCbg0OmSqy7JzvCG7ma+veAfqIlbO+xCqnusuGbA7m7wAp\nnfJ/w2ZUL19WjLQwZdz2En5EkVN+lX55aGWxEiHSYyngtnqD4YFSjpAPfPATVC2K\nwJKcN5eJyQKBgQCdPMBqGY7XlUMP+LmP8wKrw0L550WkHFEZGGFUW/l3pA+UZbJb\nSUPdx0Fs9SAVp4JN3gPx6hIyKZvYE8BbK5q4TkAXIa3eUUTo0TxGxddcvrc9JmkJ\nI1UhE95467PrsEGe4Alzt6ZXDbEszfHuXCeDErDQguUrjqdcdVKltbo7QQKBgQCZ\nZ4coEeeEpKXXRHidB/PT/uKsCKR1mLEFy/fC5hBzqTdpigRyXeIZvp3SThC2sNVp\nT4a4VI0ywbLGVd6epnnuBklfbv/uPACar+bLYIRtQCHF6SxXJEa1Dx4d4iz4A7Wo\nQdv7n6thQc737piZ+AktoAOL6E4BcunCkA+NM1GEQQKBgBV4spZKmTDFaUg+EISR\nhH1SAuYsNuNY9Ezr0QIsgz0oretZ/a6Y0Gy79ZKEK0yE3Ssfl6G7Q9T3mGUbwTNM\nW5bzf3zMYpkfcywIXbixHvpbjf3BcezUydRHySpZlAY6xYNtynI9iXwn6FcHQvRk\neUXvGmkzuzWjA0k3RNko3K28\n-----END PRIVATE KEY-----\n",
+  "client_email": "songcollection@icemusique.iam.gserviceaccount.com",
+  "client_id": "103941013156236821666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/songcollection%40icemusique.iam.gserviceaccount.com"
+}
